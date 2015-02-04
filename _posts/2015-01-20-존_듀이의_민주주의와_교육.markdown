@@ -1,0 +1,43 @@
+---
+layout: post
+title: 존 듀이의 민주주의와 교육
+date: '2015-01-20 23:06:47 +0900'
+categories:
+- pedagogy
+tags:
+- john dewey
+- democracy and education
+summary: 그동안 사두기만 하고 제대로 읽지 못했던 교육 관련 서적들을 다시 읽기로 마음먹고 꺼내든 책 중 하나는 함영기 선생님의 '교육 사유&rsquo;였다. 이 책을 읽다가 존 듀이에 관한 이야기가 종종 나와 한동안 책장에 방치되어 있었던 민주주의와 교육을 다시 꺼내들었다.
+---
+![](/images/2015-01-20/john_dewey.png)
+
+그동안 사두기만 하고 제대로 읽지 못했던 교육 관련 서적들을 다시 읽기로 마음먹고 꺼내든 책 중 하나는 함영기 선생님의 '교육 사유&rsquo;였다. 이 책을 읽다가 존 듀이에 관한 이야기가 종종 나와 한동안 책장에 방치되어 있었던 민주주의와 교육을 다시 꺼내들었다. 책을 읽기만 하면 기억에 남는 것이 거의 없어서 이 책은 공부하듯이 한 장(chapter)씩 읽고 그 내용을 정리하기로 결정했다. 지난 번에 잠깐 읽었을 때 한글 번역이 다소 매끄럽지 않은 부분도 있는 것 같아 원문과의 비교도 종종 해볼 생각이다. 정리는 해당 장&nbsp;전체&nbsp;요약,&nbsp;각 절별로 핵심 내용이나 인상 깊었던 문단 등을 인용하는 방식 등으로 진행할 예정이다. 존 듀이의 민주주의와 교육은 총 26장으로 구성되어 있고 목차는 다음과 같다.
+
+1. 생명에 필요한 것으로서의 교육(Education as a Necessity of Life)
+2. 사회 기능으로서의 교육(Education as a Social Function)
+3. 지도로서의 교육(Education as Direction)
+4. 성장으로서의 교육(Educatino as Growth)
+5. 준비, 개발, 정신능력배양(Preparation, Unfolding, and Formal Discipline)
+6. 보수 진보로서의 교육(Education as Conservative and Progressive)
+7. 교육에 대한 민주적인 생각(The Democratic Conception in Education)
+8. 교육의 여러 목적(Aims in Education)
+9. 목적으로서의 자연적 발달과 사회적 유능함(Natural Development and Social Efficiency as Aims)
+10. 흥미와 훈련(Interest and Discipline)
+11. 경험과 생각(Experience and Thinking)
+12. 교육에서의 사고(Thinking in Education)
+13. 교수법의 본질(The Nature of Method)
+14. 교재의 본질(The Nature of Subject Matter)
+15. 교육과정에서의 놀이와 일(Play and Work in the Curriculum)
+16. 지리와 역사의 의의(The significance of Geography and History)
+17. 교육과정에서의 과학(Science in the Course of Study)
+18. 교육적 가치(Education Values)
+19. 노동과 여가(Labor and Leisure)
+20. 이론적 학과와 실제적 학과(Intellectual and Practical Studies)
+21. 자연과와 사회과 : 자연주의와 인문주의(Physical and Social Studies: Naturalism and Humanism)
+22. 개인과 세계(The Individual and the World)
+23. 교육의 직업적 측면(Vocational Aspects of Education)
+24. 교육철학(Philosophy of Education)
+25. 인식의 이론(Theories of Knowledge)
+26. 도덕의 이론(Theories of Morals)
+
+하루에 한 장씩만 읽어도 거의 한 달정도가 걸리는데 한 달안에 끝낼 수 있을지 모르겠다. 어쨌든 이번에는 목표의식을 가지고 위의 리스트에 모두 링크가 걸리기를 기대해본다.
